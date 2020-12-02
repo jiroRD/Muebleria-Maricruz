@@ -1,0 +1,27 @@
+.nav-enlace{
+    background: #333456;
+    color: #f3eac2;
+    padding: 10px 100px;
+    text-decoration: none;
+}
+ 
+.nav-enlace:hover{
+    background: #892cdc;
+
+}
+nav{
+    background: #9ddfd3;
+    padding: 40px 40px;
+    
+}
+button{
+    background: #892cdc;
+
+}
+button:hover{
+    background: #af2d2d ;
+}
+
+button:active{
+    background: #8675a9;
+}
